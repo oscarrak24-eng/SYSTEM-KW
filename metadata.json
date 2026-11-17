@@ -1,0 +1,8 @@
+{
+  "name": "Remix SystemKW — Facturación CFDI 4.0 Ilimitada",
+  "description": "Landing page de conversión directa para SystemKW: timbrado CFDI 4.0 ilimitado sin pagar por folios, instalación gratuita y atención directa por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
